@@ -1,4 +1,4 @@
-<h1 align="center">** Welcome to Rishabh Choudhary's Github Profile **</h1>
+<h1 align="center"><b>Welcome to Rishabh Choudhary's Github Profile</b></h1>
 <h2 align="center">Data Scientist</h2>
 
 ---
@@ -15,14 +15,14 @@ He is a forward-thinking person, always looking to learn and experience new tech
 
 He is currently looking for full-time opportunities in ML, DL, CV, or NLP as a Data Scientist or AL/ML Engineer.
 
-Skills :
+<b>Skills :</b>
 - Python (flask, pandas, numpy, scipy, matplotlib, seaborn, scikit-learn, Keras), SQL, Ms Excel, VBA, Anaplan
 - Statistics, Exploratory Data Analysis, Regression, Classification, Clustering, Segmentation, ANN, CNN, RNN, Time-Series Forecasting
 - Computer Vision (Image Classification, Object Detection, Object Segmentation), NLP (Vectorizor, Embedding, Transformer, Bert, GPT)
 
-** Resume Link :** https://google.co.in/
+<b>Resume :</b>https://google.co.in/
 
-** E-mail : ** rishabhchoudhary7795@gmail.com
+<b>E-Mail :</b> rishabhchoudhary7795@gmail.com
 
 
 <p align="center">
