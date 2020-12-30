@@ -25,13 +25,7 @@ E-mail : **rishabhchoudhary7795@gmail.com**
 
 <p align="center">
     <a href="https://linkedin.com/in/rishabh7795" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/rishabh7795" height="30" width="30" /></a>
-
     <a href="https://medium.com/@rishabh7795" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium.com/@rishabh7795" height="30" width="30" /></a>
+    <a href="rishabhchoudhary7795@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rishabhchoudhary7795@gmail.com" height="30" width="30" /></a>
+
 </p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh7795" alt="rishabh7795" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh7795&show_icons=true" alt="rishabh7795" /></p>
-
-
