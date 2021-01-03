@@ -13,7 +13,7 @@ Since April 2020, in the current phase of learning and following his career inte
 
 He is a forward-thinking person, always looking to learn and experience new technologies. He constantly likes to work on personal projects to explore different frameworks and methodologies to familiarise himself with current industry practices in this fast-moving technological field.
 
-He is currently looking for full-time opportunities in ML, DL, CV, or NLP as a Data Scientist or AL/ML Engineer.
+He is currently looking for full-time opportunities in ML, DL, CV, or NLP as a Data Scientist or AI/ML Engineer.
 
 <b>Skills :</b>
 - Python (flask, pandas, numpy, scipy, matplotlib, seaborn, scikit-learn, Keras), SQL, Ms Excel, VBA, Anaplan
