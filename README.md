@@ -20,7 +20,7 @@ He is currently looking for full-time opportunities in ML, DL, CV, or NLP as a D
 - Statistics, Exploratory Data Analysis, Regression, Classification, Clustering, Segmentation, ANN, CNN, RNN, Time-Series Forecasting
 - Computer Vision (Image Classification, Object Detection, Object Segmentation), NLP (Vectorizor, Embedding, Transformer, Bert, GPT)
 
-<b>Resume :</b>https://drive.google.com/file/d/1tiwOlgOGhXt51R-7D8i3vVnaAXyOYAwx/view
+<b>Resume :</b>https://drive.google.com/file/d/1-sKsn2S4hqkxxyr8igKIHmt0r5nyDDkk/view
 
 <b>E-Mail :</b> rishabhchoudhary7795@gmail.com
 
